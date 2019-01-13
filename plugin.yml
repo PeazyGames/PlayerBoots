@@ -1,0 +1,6 @@
+name: PlayerBoots
+main: PB\Main
+version: 1.0.0
+api: ["3.0.0, 4.0.0"]
+author: YourPeaZYT
+description: PlayerBoots plugin for my Community!
